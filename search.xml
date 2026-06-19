@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>AI收藏夹</title>
+    <url>/2025/98494.html</url>
+    <content><![CDATA[<p><strong>本文收藏了一些常见实用的AI工具，并对其作简单描述以供了解使用</strong></p>
+<span id="more"></span>
+
+<h1 id="一、LLM大语言模型"><a href="#一、LLM大语言模型" class="headerlink" title="一、LLM大语言模型"></a>一、LLM大语言模型</h1><h2 id="表格呈现如下"><a href="#表格呈现如下" class="headerlink" title="表格呈现如下"></a>表格呈现如下</h2><table>
+<thead>
+<tr>
+<th>LLM</th>
+<th align="center">多模态</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://www.deepseek.com/">Deepseek</a></td>
+<td align="center">否</td>
+<td align="left">据说中文能力很强，最新版增强代码输出能力</td>
+</tr>
+<tr>
+<td><a href="https://www.tongyi.com/">Qwen通义千问</a></td>
+<td align="center">是</td>
+<td align="left">中文能力强（文言，方言；适合本地部署的轻量高性能模型</td>
+</tr>
+<tr>
+<td><a href="https://www.doubao.com/">豆包</a></td>
+<td align="center">是</td>
+<td align="left">还不错，支持文生图</td>
+</tr>
+<tr>
+<td><a href="https://kimi-zh.com/">Kimi</a></td>
+<td align="center">是</td>
+<td align="left">暂无</td>
+</tr>
+<tr>
+<td>—————</td>
+<td align="center">–</td>
+<td align="left">————————-</td>
+</tr>
+<tr>
+<td><a href="https://chatgpt.com/">Chatgpt</a></td>
+<td align="center">是</td>
+<td align="left">很全面的AI</td>
+</tr>
+<tr>
+<td><a href="https://gemini.google.com/">Gemini</a></td>
+<td align="center">是</td>
+<td align="left">长上下文有优势，<a href="./gemini">详细说明</a></td>
+</tr>
+<tr>
+<td><a href="https://claude.ai/">Claude</a></td>
+<td align="center">是</td>
+<td align="left">代码编程专用</td>
+</tr>
+<tr>
+<td><a href="https://grok.com/">Grok</a></td>
+<td align="center">是</td>
+<td align="left">还不错，文生图速度快</td>
+</tr>
+</tbody></table>
+<hr>
+<h1 id="二、图片视频生成"><a href="#二、图片视频生成" class="headerlink" title="二、图片视频生成"></a>二、图片视频生成</h1><h2 id="1-本地部署类"><a href="#1-本地部署类" class="headerlink" title="1. 本地部署类"></a>1. 本地部署类</h2><p><strong>1.stable diffusion</strong>，详情见B站大佬秋葉aaaki视频:<br><a href="https://www.bilibili.com/video/BV1iM4y1y7oA/?share_source=copy_web&vd_source=2cf1a61fe58e8673259ecabf5380993b">【【AI绘画·24年12月最新】Stable Diffusion整合包v4.10发布！解压即用 防爆显存 三分钟入门AI绘画 ☆更新 ☆训练 ☆汉化 秋叶整合包】</a></p>
+<p><strong>2.Wan2.1</strong>，B站搜索，貌似是SD的一个优秀模型。</p>
+<h2 id="2-在线服务"><a href="#2-在线服务" class="headerlink" title="2.在线服务"></a>2.在线服务</h2><ol>
+<li>豆包，通义千问等多模态</li>
+<li>谷歌Veo2,在<a href="https://aistudio.google.com/generate-video">ai studio</a>免费使用</li>
+<li><a href="https://www.liblib.art/workflows">LiblibAI</a>，提供部分免费模型选择，有一定的使用额度，还可为stable diffusion添加模型</li>
+<li>其他一搜就有的热门工具（字节，阿里，腾讯等）</li>
+</ol>
+<h1 id="三、智能体平台"><a href="#三、智能体平台" class="headerlink" title="三、智能体平台"></a>三、智能体平台</h1><p>智能体就是将LLM与其他服务（MCP，agent，搜索引擎）结合起来，形成具有特定功能或按照一定流程完成任务（工作流）的AI平台。</p>
+<ol>
+<li><a href="https://www.coze.cn/">扣子空间</a>，字节跳动出品</li>
+<li><a href="https://xinghuo.xfyun.cn/">讯飞星火</a></li>
+<li><a href="https://cloud.baidu.com/">百度云千帆</a></li>
+<li><a href="https://yuanbao.tencent.com/">腾讯元宝</a></li>
+<li><a href="https://copilot.microsoft.com/">Coplit</a>,微软出品，配合VScode写代码很方便，相当于Cusor</li>
+</ol>
+]]></content>
+      <categories>
+        <category>收藏夹</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Gemini使用指南</title>
+    <url>/2025/gemini.html</url>
+    <content><![CDATA[<h1 id="Gemini使用指南"><a href="#Gemini使用指南" class="headerlink" title="Gemini使用指南"></a>Gemini使用指南</h1><p><strong>在观看爬爬虾的视频后发现Gemini有很多进阶的使用方法，结合自己的经历分享一下</strong></p>
+<span id="more"></span>
+
+<blockquote>
+<p>视频：</p>
+</blockquote>
+<blockquote>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=114554948356286&bvid=BV1zXJxzrEdc&cid=30101930243&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</blockquote>
+<hr>
+<hr>
+<h2 id="1-网页使用"><a href="#1-网页使用" class="headerlink" title="1.网页使用"></a>1.网页使用</h2><p>Gemini主要有两个网页端，还有一个使用Gemeni的笔记网站。</p>
+<ol>
+<li><strong>面向用户网页端：</strong><a href="https://gemini.google.com/">https://gemini.google.com</a></li>
+</ol>
+<ul>
+<li>功能完全</li>
+<li>核查回答功能</li>
+<li>内置Google搜索</li>
+<li>高级模型使用限制</li>
+</ul>
+<ol start="2">
+<li><strong>面向开发者网页端：</strong><a href="https://aistudio.google.com/">https://aistudio.google.com</a></li>
+</ol>
+<ul>
+<li>包含基础功能，使用无限制，可使用最新的高级模型</li>
+<li>除Gemini外，还有文生图，文生视频模型</li>
+<li>包含一些开发者工具</li>
+<li>其他见视频</li>
+</ul>
+<ol start="3">
+<li><strong>NoteBookLM：</strong><a href="https://notebooklm.google.com/">https://notebooklm.google.com</a></li>
+</ol>
+<ul>
+<li>官方介绍：NotebookLM 是一款 AI 赋能的研究和撰写助理，最适合与您上传的来源配合使用</li>
+<li>知识库上传</li>
+<li>播客功能</li>
+<li>建议亲自尝试</li>
+</ul>
+<h2 id="2-免费API"><a href="#2-免费API" class="headerlink" title="2.免费API"></a>2.免费API</h2><p>在<a href="https://aistudio.google.com/">AIstudio</a>中可以获取API使用</p>
+<p>可以搭配一下项目使用</p>
+<ul>
+<li>gemini多Key轮询：<a href="https://github.com/snailyp/gemini-balance">https://github.com/snailyp/gemini-balance</a></li>
+<li>gemini国内中转：<a href="https://github.com/PublicAffairs/openai-gemini">https://github.com/PublicAffairs/openai-gemini</a></li>
+<li>免费DeepResearch ：<a href="https://github.com/u14app/deep-research">https://github.com/u14app/deep-research</a></li>
+</ul>
+<h4 id="api国内中转"><a href="#api国内中转" class="headerlink" title="api国内中转"></a>api国内中转</h4><p><strong>我目前使用过的是api中转，利用cloudflare部署</strong></p>
+<ol>
+<li>fork项目到自己的github账户</li>
+<li>找到deploy in cloudflare一键部署，按提示完成操作</li>
+<li>找到已部署的worker项目，绑定自定义域名</li>
+<li>利用该域名和在AIstudio申请的API密钥即可使用API服务</li>
+</ol>
+<ul>
+<li>API访问客户端：<a href="https://www.cherry-ai.com/">cherry studio</a></li>
+<li><a href="https://www.freedidi.com/17434.html">如何获取免费域名</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>实践分享</category>
+        <category>工具分享</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+        <tag>Gemini</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【Hexo】Hello World</title>
+    <url>/2025/hellow.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><span id="more"></span>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>【Hexo】部署静态博客hexo网站</title>
+    <url>/2025/hexo.html</url>
+    <content><![CDATA[<p><strong>引言：</strong></p>
+<ol>
+<li>建立一个博客网站有很多方法，而我了解到了一个静态博客框架hexo，部署方式简单，甚至无需服务器。</li>
+<li>我选择的部署方式为<a href="https://github.com/">github</a>+<a href="https://www.cloudflare-cn.com/">Cloudflare</a>，由于我是个新手小白，没有服务器什么的，所以采用这个简单经济的方案。还有，本地为windows系统。</li>
+</ol>
+<span id="more"></span>
+
+<p><a href="https://hexo.io/zh-cn/"><strong>【Hexo官网】</strong></a></p>
+<h1 id="1-安装基础应用git和Node-js"><a href="#1-安装基础应用git和Node-js" class="headerlink" title="1.安装基础应用git和Node.js"></a>1.安装基础应用git和Node.js</h1><p>通过官网安装<br>git官网：<a href="https://git-scm.com/downloads/win">https://git-scm.com/downloads/win</a><br>Node.js官网（建议LTS版，他们都是这样说的）：<a href="https://nodejs.org/zh-cn">https://nodejs.org/zh-cn</a></p>
+<h1 id="2-本地构建hexo框架"><a href="#2-本地构建hexo框架" class="headerlink" title="2.本地构建hexo框架"></a>2.本地构建hexo框架</h1><h2 id="2-1构建"><a href="#2-1构建" class="headerlink" title="2.1构建"></a>2.1构建</h2><p>安装hexo组件</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p>选择合适的文件夹运行cmd</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> hexoblog       #新建文件夹</span><br><span class="line">hexo init hexoblog  #安装hexo本体</span><br></pre></td></tr></table></figure>
+
+<p>hexoblog为项目文件夹名称，可根据自己需求更改<br>安装依赖</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> hexoblog  #进入项目文件夹</span><br><span class="line">npm install  #安装依赖</span><br></pre></td></tr></table></figure>
+
+<p>项目文件夹结构如图</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">├── _config.yml</span><br><span class="line">├── package.json</span><br><span class="line">├── scaffolds</span><br><span class="line">├── source</span><br><span class="line">|  ├── _drafts</span><br><span class="line">|  └── _posts</span><br><span class="line">└── themes</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>hexo的原理是将source文件夹中的页面和文章<a href="https://markdown.com.cn/basic-syntax/">markdown</a>文件（默认格式）按照指定样式渲染为<a href="http://baike.baidu.com/l/mQc13VKy?bk_share=copy&fr=copy">html</a>文件并保存到public，该文件夹即为输出目录。</p>
+</blockquote>
+<h2 id="2-2-本地测试"><a href="#2-2-本地测试" class="headerlink" title="2.2 本地测试"></a>2.2 本地测试</h2><p>项目根目录运行</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>在<a href="https://localhost:4000/">https://localhost:4000</a>查看</p>
+<h1 id="3-初始化git仓库并推送至github"><a href="#3-初始化git仓库并推送至github" class="headerlink" title="3.初始化git仓库并推送至github"></a>3.初始化git仓库并推送至github</h1><h2 id="3-1-本地仓库初始化"><a href="#3-1-本地仓库初始化" class="headerlink" title="3.1 本地仓库初始化"></a>3.1 本地仓库初始化</h2><p>项目根目录运行</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m &quot;Initial commit&quot;</span><br></pre></td></tr></table></figure>
+
+<h2 id="3-2-创建Github远程仓库"><a href="#3-2-创建Github远程仓库" class="headerlink" title="3.2 创建Github远程仓库"></a>3.2 创建Github远程仓库</h2><p>登入Github账户，创建仓库(new repository)，选择私人,其他默认</p>
+<h2 id="3-3推送"><a href="#3-3推送" class="headerlink" title="3.3推送"></a>3.3推送</h2><p>绑定Github仓库，URL去到仓库界面时浏览器显示网址即为&lt;远程仓库URL&gt;。</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">git remote add origin &lt;远程仓库URL&gt;</span><br></pre></td></tr></table></figure>
+
+<p>推送项目至Github仓库</p>
+<figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">git pull origin main</span><br></pre></td></tr></table></figure>
+
+<h1 id="4-利用cloudflare部署"><a href="#4-利用cloudflare部署" class="headerlink" title="4.利用cloudflare部署"></a>4.利用cloudflare部署</h1><p>1.登入<a href="https://dash.cloudflare.com/">cloudflare仪表盘</a>，选择workers 和pages -&gt; pages。<br>2.从Github选择hexo仓库部署<br>构建命令</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npx hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>构建输出目录 \public<br>3.部署完成后访问域名即可，建议绑定自定义域名。</p>
+<ul>
+<li><a href="https://www.freedidi.com/17434.html">如何获取免费域名</a></li>
+<li><a href="https://www.namecheap.com/">低价购买域名</a></li>
+</ul>
+<h1 id="5-补充另一个部署方案"><a href="#5-补充另一个部署方案" class="headerlink" title="5.补充另一个部署方案"></a>5.补充另一个部署方案</h1><p>这个方案从创建GitHub远程仓库开始，<br>下载GitHub部署插件</p>
+<h1 id="6-后续文章更新"><a href="#6-后续文章更新" class="headerlink" title="6.后续文章更新"></a>6.后续文章更新</h1><p>请看<a href="./3213">新文章</a></p>
+]]></content>
+      <categories>
+        <category>实践分享</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【Hexo】Hexo博客发布文章</title>
+    <url>/2025/3213.html</url>
+    <content><![CDATA[<p><strong>我们已经成功部署了Hexo博客，那么如何编写发布文章呢?</strong><br>这里介绍两种方式</p>
+<hr>
+<h3 id="1-Hexo官方命令"><a href="#1-Hexo官方命令" class="headerlink" title="1.Hexo官方命令"></a>1.Hexo官方命令</h3><p>即博客中默认的一篇<a href="./hellow">文章</a>，此外<a href="">Hexo官方文档</a>中有更详细的介绍。<br>在项目根目录下<code>source</code>文件夹中，<code>_posts</code>存储已发布文章，<code>_drafts</code>存储草稿，均为markdown格式(可添加插件使用其他格式)。顺便一提，<code>public</code>为博客内容输出目录。</p>
+<span id="more"></span>
+
+<ol>
+<li>创建草稿，和发布草稿</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new draft &#x27;&#x27;我的新文章&#x27;&#x27;       #创建草稿</span><br><span class="line">hexo publish draft &#x27;&#x27;我的新文章&#x27;&#x27;   #发布草稿</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>直接发布新文章</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new post &#x27;&#x27;我的新文章&#x27;&#x27;</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Qexo后端编写"><a href="#2-Qexo后端编写" class="headerlink" title="2.Qexo后端编写"></a>2.Qexo后端编写</h3><p>Qexo是一款开源的静态博客后端，适配多种框架。不过该方法需要将完整的项目上传至GitHub仓库或者网站服务器。</p>
+<blockquote>
+<p>GitHub部署插件（hexo-deployer-git）只会将’public’文件上传以直接通过项目文件部署GitHub pages。若将完整的项目文件上传，则需通过GitHub Action进行部署,<a href="https://tech.yemengstar.com/github-actions-auto-hexo/">参考教程</a>。</p>
+</blockquote>
+<p>我采用的是 vercel部署：</p>
+<ol>
+<li>部署Qexo,fork<a href="https://github.com/Qexo/Qexo">项目</a>到自己的Github账户，在<a href="https://vercel.com/">Vercel</a>中绑定账户并选择相应仓库部署，配置保持默认。<br><img src="https://i.imgs.ovh/2025/06/11/bPcaO.webp"><ul>
+<li><strong>正常会报错，需要进一步配置</strong></li>
+</ul>
+</li>
+<li>进入vercel项目选择Storage，新建存储Neon，选择推荐地区，免费计划。<br><img src="https://i.imgs.ovh/2025/06/11/bPZ9p.webp"></li>
+<li>在Neon配置中找到 Projects 界面，选择connect Project，绑定Qexo项目，然后在 Deployment 页面重新部署项目(redeploy)<br><img src="https://i.imgs.ovh/2025/06/11/bPaI6.webp"></li>
+<li>绑定自定义域名，原始域名可能无法访问（可选）</li>
+<li>初始化：进入网址，按照步骤进行，相关信息在设置界面均可找到。</li>
+</ol>
+<ul>
+<li>建议token设置期限</li>
+<li><a href="https://github.com/settings/tokens">GitHub的token</a>用于修改部署在Github的博客，仅需repo和workflow权限</li>
+</ul>
+]]></content>
+      <categories>
+        <category>实践分享</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>NexT主题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>广域网知识</title>
+    <url>/2025/widenetwork.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码好像不太对呀, 请再试试！" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e4b9de70a1528c796b075cc231dfe710745787e032ef7e4458d0f6af08df41ca">9ca652af6870009f29f6b57db76bedbf2f37a434d70fb40aafa06e01deeadc089d4830023fef092e7e8e8c49335c3d3ea0a32e871d93337c1e5be9c295e92f408025b8a8d7ee0ed63875b28bf656dfc30e74dbbf8564a9a12ee46e0f86cd9f992ac977cf41ebfc88d9cf14857f3a18c6d80bb9af20b691a3458a20c370964b077df7d47a7c29bf8bbb2f34edaa45338040d522235f7ab3d525540261627793b5c7150041e1980bbe34f2512e94d6640d62f6f289151ddb72b37f858081ab7eb098ebe98c8149bfa2225e6beae621bb5e7ddbbfad78b7b02e84c8c4176663a1c3f082f5b0530c51f78c97fa6c7164ac5524ae924bf428e0443e4db69edc553ab3d5e53e00330d4cc688528f33c8daf5a4f37e4857fc46dd0d74c818c63b6fb964a569b1acc6c7588dc8ca287e57167719ad32db459e1555b42ea056750833aed5eb4b08f9ce4f3bae84cff198a02b911b006faa4236bcaba8c7d7b7e95d27156d71307982217ea5e5b89c2687d3c40ec87ab48183af0f7dd9fd4ab2f5be3d24d184a3b94bed339c51a03f16616e77eeb160a3b6d5b11874df6862f40b00bfebec5ce306710bbd83be4162e07a56d737ab39604e5331d5b1e9f883f0364602c65d19548a9379983a00831bcde25047f02c791d00327b4e690b05510bf5b5ddde434e5385d462dcf76a942358df6d3e277a09e8981ca5ade044fb9033a80bd88424b12730460d6a55a732900fb3ab44092172eaea719dca3f4e32a849cd97dc20e928b5c5fc0e9873547ad6f8b6475c4e0bbc35a0bfe3b16049abcc30f1cec18c143dc703b3879206bf7722906870871fa01b8ddffdc872a0fd445fd863c1182116c9e86de7166c99712fc37228c80230ce51cbab0196ab5f4a846ed828bfd5eedb962e42b4b0f5fe6393948292d3375395a248723343e67ed78597f5ea56c1c04268fbdf4aaf966f53621dfc7a6e59162974e0dacd51574e4e65e6cf7d13cfd04d6e7224e64e922362c360529afbe022a7cd17efe929e94781ecf77d7b30a501096cfde36099137b40ae4c5de91777cf297a875449169f3c2b58b7b53ddb95bed8800a6fa7568b649c62e502796c3596c44b979da03077d8d24cf0117dfb58eb2ee3803968cc73870442b8ac53fb13a21cad8f4ceef7d577d25dca3f8ccda421576f3c2cead4620438e638e60d88d5b6e388727d651deb31a651067a60b768672a85987f50d7133732844bc9bb9e18963aea75227a814665860437cdb0fdd647ac32872d7165ac938d5d14a59ad3ff7418994511f890ee94d5d3c152c721a375842f452eed8b876ae4b4ee00df2308eafaa1d6ff54ba076412f4be1d856b6afd7869d584c00de43b71703d684c52bd2630e17d9eb868c9af3b702b07dbb663ecc47d729e29d1029e888c0162e56008565e3ad73a10115da063d7371ffd827b3cb884ba6e607665dda4117bfa29b7830a707c26c8ea9872a8d1f67ba274cce6c2e14323e495db31e6543b345c4e8be213b32177184bf91677f14ea7cd3977e1f7904f40b04d9ae09bf728fcc11c6fa13350c618bb5b62bb8dbac6dfce7071cf9312e4f6cc0dc6e7635bd12e737c61850fc3526f1b99c2058419e779a6893c7ad1788f806aad144a56883462d3c7e969ea26d024b48978f59888d7f1f5fb5c425b9230ae941c490068795ab270b3f3c253cade912db269e92cdb7ae663d92ba950986a52e3b6dc4fbb0ce05950f7680007737d329097a310162489125ea9c97c219e664bcdcfc774076ea14eacf442648ea40481d830ada82f9dad4cdcd95d6d60687672c4d5af120ab22271ce94067340596dc8b9c321be96872fc3c51d2e1ac092da880bb1aa8ccca90d3c822159c8fb04e37d6b45b92d1a4efb29d8a55568741d96227762117ec9cad2e17004738f1a958d4e73ab7457a0484756cdb7a6c793afc4a62212c5087808766abca832018d42662389d4a7c0fa3213f0e7c96b823add68c673687301ed0842bd415b5e7755fdae5215e7ed724344790b0d078b7043ba002b7bd0a1c0bc5d5f93071faccd3bb861c758a551337e946c92ac0f29cf1414d57721d912711feaf639ca42be58f8cb3fa71eb8c46e37ccfa01b0d6a5d3078523a08a54d1a9812fe8f51a9ac013d14ded1888785204b30950bf356377ccb1916b0cc389af68078ff7d33cb2790dbb43e7273c6a3bdd59524641e9f3df1693868e5f618c2605b44297bf5520b2912780cecc9f02f15d2cd9f7e361f14d791dc87ffe031ca629bd77515b0a7a67c37e2fcdfab2c901f0ce186c26e43d476d3110aceb7eb99de13fc5e520db4ac0a8fa50b1b1115357adce1d908044bd66ab09c062637c1841a2d0f8e02cc219d5d720851343598aa850afbba453b1438b122197f3a42b5b1a71d4c39e510319fa355b6629a2a0abe5d24ebbeb49db84e3db5aeb54b98d3e5e8bc58452abe8661bc6a8959fbaffd30998dc3c5f3c0ae7728eee278e0b8ff75a1a9630d082f09a1fac427627ac50b88a34b772fca0df5d2e6de2b6dde34ec22133407130353f956396781f265b61106ca03867fbc8f781ad450a59ea65200652ff29c01db6000e6a9c5d408b44c6799c3b8c55bd36aba0dfa38fe9f7acf2bd19d53dcf5fba041e84bfff464bbd66afe75c6de4c765c1fe9e39389f4a45a879436c78f053a40d6f33f6d37547458f6b6a9d7aae7eebe18ff12f19cee683ee8874c78edc9768f6106bfca2d8650ef7e54f4c24a54ab492a4f28d6dad95c9d138736028f66e13e303cc4be694cf0c11e976b45bf81ef8d52105b66dab9afaee3992d43f85e192891536baf11148b3fe4a461602193236cea87507b43a533759d184b3c42afc1d75aa4661bcff25e71e770e15d51e454b10c79179be89c402601dc32cc266ddb4e9df2ba6d026691459ae73669e3349447ffb62adffd6caf57cadba268d28759fb537f0410cf3dda91e9fadd8daff5a4f7a7c358023103d1088ca04b0be079f833e47e62d68704defda235c3038a4d32a6a6f0650220620cf14237e46ecefcb2075d925a251d5bacd2895cc32b71734c2091e669029da775ef8f154cf6482b5cce126a50933db791ae3701748b2a150719461a1932f69a42a73c48abafd44ee9e75debff4d12ffca88b381c4c771f5554c92f5126d16ee8e11f55f708435cdaab2ef12d92fe01d0e19a1dce7f6a7e169c221cbb52542b82a809b8ecf32dbc883dcc032ea14547f8b1d8c5dc34f37b1d27abb328177f36c045b4d6754543b2a89893bb700247afdaec1e5550a924b5496e216f0852adb996583fefd45c52d019234d39b07e80d5e2158fbe3a3b6f5874f1dce79d53c708adeec86b6db77d2d1516afb70f4c45c5dfb667087cf162d8e3ab2400340a63dd8ad81b9ff81c95b7f6c3ed89d9e8a400f948b9f4a6216013312565ee0bb7a004d4047fa87e4c97862d2732fe341ab16a3b0c12ffb7b8c6c3cfef3c28827b36b06d5422a7f198beda176933ea66b2efb0b3a5fcbe59fb13290e9df96527b78ac8da6a430e20c7bf725ac43382973f3e0dce57b24813393375516f2028b261cda66316c1bc34c97433f6156b161e0897ae6a2e0eaff57836515b91cf1a4b5622247efc6832c78c191ac5030df99d2f33a3a571c3d8d5069cfe2efe4488683e9582acd89ae8e6c54874020ab76d9023238b5cb8a27f1a78704879483ba301e356589d20cd85ebc307384102ed45c8fa926143338bf6349675022f63020e8d27396819f18f511f9d83cc4236459331d486e1752f70b6f7f7d0e9ebd43542dfceaca444570dc7b133f57a63fda4da21276dbb70849c946269bf6afb4c51e15d6ad4c7d2b2683fb5738717da0cafa36f3f5d7e6476ad538c7cf5369f5bb13787fa8f1098ed6eb71dddb99d3fbd134bcde5c5adade2edcfa03d083a268adedf8c9e2dac81d9a866bfbed198c625856e9c2c35126732dd809fe3797fa6c632a077c9f6aff3ffb7fc59287b1d73d9dde141c363d1b3311a3118c88dc4eda76a682661693bfc6f6f3c1aa86c5abfcdb3d17677cd88402c54d393caf9bc518a831d47ee7fcc1141e275dced0b6a07600a5330d7662e2311e99cc335d031f4811e4b33e86a177fa23161c9308687790c0d8f9a92918d0f4df93f9d281cc09c323d54707db8ef299bdb041552af1b68de987252f6bd465ebe6723bc673138ca910681819858dd614566992b02e3a4d583b50fefed2955b6d7c3f5a7f2501a9baa1512321e193bea3dcde652be5d64afdbc040459104c03bc6bef24fe9535c00d34b782b8c2f46ac2076c26cb3effcdfb74240573b9050ac96fb5e8f28ce989ad4b4fc0b51212f01fb7c890b06ea2260f8921b16066d14aec17c2fcceb848a0e53af3a1b18c99a7f15b91e89d163faf9013a007676b62e10df3c0586695f824003d074e2c5a5fc2dc34e226466d66aafb0e4e4a96100f387312cbb49adb045d72b13baf613cf78152bb984c3cbec64985cfc7b0b781d3ce5f331bb732b9984e59e42c2611230c1c5ede6272ac048880cdcd189556784d004398f77a79980511b69dd60b7687d59d1c0664a4cbcf393b92b0392d8b31528034efe56683b1b54f8482dd0840f0790c93579f7843c2f66ba6893a85920ac79779c87f4bc1734a4d21435f5c255f6a459c8874b0c2be772d5f3be46e92f4ee5c8503e3286f0bc0e1310585cc9621515525dba3fd7ccaab97588693f076d1ce8068f977e204087117d0af650341e77db107d8bb93b2c9d81ce1f6d4c41d3f5e87ad8065209b3e63fdf8a5c507f4662c7d17182517d79c07a80c5183236f62597c5bd433086f931d4b5424e7fccba7641069fb8f849da75e69cf7e6d3c424e1dce9132aff01efafadebb3f1f6d513722c67fcfad8e9fe4aeaa8c51fcfb0ecb3061d65e1a65b6a15db85187e4bc38d4b51caee5bd235d76843856515f9aac71a83c792346bf1f0c4e4f32e25a2ecc3b85043c0ee0f5bd98679e6d72561348b54697a7ea6d278ae88f6edc4a974903b342edc00f56018e367b9fd13d7d504ce2c31970bcb7e940b76a3bef53da5a6f165425c240c0bdf541ba52366f2163da1a5b1de64f2c7e3e874248472d53ae2056076d59624b24a97872523058b51e7524414e80c9a13eed916c00acaa4ccdfa34ab372180ee48147fe4b9ea717ccd42e84493316037925b4fe3c5075f85c1932297ee492041570349107e3cdacd682c6f2a2c82336aa0b51bb75ec8c7a576065909e080c5e0c70c2d79d80950a26c4c4dc6afaf4dc86f79cb76f4116324168df682bb41bdc77b644b099abbb69cbf0a219c75eef6c4ff72755af520be53f2581a1a12bf23a722f662dc7ed73156dd158484cbcde6ba371e52f9a6859d2440bbffaf9ed2abc612fcec2711d2d14e151d40f31502da9fb9e2666e820a793364d43ce663fceea3e58cf5134d40c50022d5eee5ef3d00e15a174d643c8c6a68b0a3f9dccb6a4582e4718de6019cb735f51d54b76bd8a79a3ba7a1117491d2d4b4cb226508aaef795b4982a087cf07651ca2b14d0eee5bf12b87ad494a813ac10f7520d7af6a93f42fc14dcad1409f2da3ac7f5e9ca0750a0f6c256f1c178b40331de9d3f4db7b0e7c0890be119aad334b7d5880dd0bd6b5615881334d22b430ffd66ff459af8a49c50527cb29ebe3088476e6f32fd8e1681028285a5da75ec7fc0dbcc7540494b0528e100db0e8b372e79ee49d42a64a23d732e92695cae2a52e67488ae740631cc53c014353321bbf037cbe84bb12e4670822533a095a03d2c5a7d2a83b65d42fd23e640d6602129158ff8c189f3709de253fde40db130e63c13ae0c9928676f3ab1cd4f85ad6fce376e0ac44aae06db01266c0625ffc337cf2105cf88914f316135ea3009e8dc176f8df3681523b6addd9fa14342f65e0ee1071986f2b9f416a0b80099fbc028273dbcebad33e677c81091dd6697bd37c318151d51cc3e1a59b68b5920f1c7a7daeba5c0f872b82cd2a5ec8e7f38cc695b0dd27bbaadac67e253789073c2c0ce540dc82fe89840409f95cf674a6daf50d03ddefc1b979d084136419340e4ff939f150cff524d93c20360a81afc435224ac6cbf5359f0067e268d1cec56c8ef5ceb3427f515a4ba1fcd3cd9bc8d9890cc05504280a8eb2aedbc515b019d0ad8566b3176505178eeb7a883824a162c32164dfdf4a2d5fe34594a2cc24ef95a66be576bba6a84741c5c409ea7d1b61abca9247e40e77327f7a59330dda9a4b0f99a512630114a60b73075ef3714bacd5307f7c2df305c3a99688df26ab83166dcb32c2b2014739204419e59039d1d45cca3771a5e9d03da58e0a50ad49b307b0ec9313dbc0082114e0c85a553980760842a156a39b0e1749954ed322ad45bb63d1e8ae872af2868135242e8c455337ec6148224c51bdc211775ab5de83781a5b364c7184a19a85cae57a01a118cfe25cb153fe459dc70032894aad3e6073ac7c167812dc0d97e29cd6b564ecef2afbcf9fa8f697015a728aa9b15593f6986c157999f315c4f3b9d9dcd749684468b29d07bbf56e3d922becd2ecb115d674147d3e682ea0023c00283ae9f381ed135e6394135ea263057e6492ead35933992589deba9db7c81c0e62178a91fb09efe22531fe872e418a299df0e67f76fde781668251933d49c3cdb65c9a62741a7279aab3c4e175297b7231417dd0d62184d3da5ee2aa8b30fe8556eeff9ef0156fb2b6174e9277f8dc363c5a0e88f139b310be386af4a3fbc007bea04bef6fbefbbc4f0e8d5ed6e4895e36a741892cfc867352824d3da683126cad6d6f62adc4a295d1b8aba9c8f3a4186dbfaaccc6f225ddbca2de9798340f17ea670d75da9fb95a7425a2826d3a5b7c4ce79ced8822cc7679d048c779b870e3fd96dbb80787f806eaf9919e82795a7e702e15129ee77c5b2c2e1edd1b357e29f62081f77e2585ada5c77eb258eaa2cbb2f3eb5d38ddcdb2acdec520b5d7cb66ebfecc25b682a7911f145e8f7fd739b99e5dcc8d34879c6f55afb8b1084d0451f52c4a6421ad7e6c8443d472be1972a03e4abe6d3d94fbfe9243bb10d70b0e7b7156824bd45614cf1732f9109c071a5fccb49f575723de2af099b5b48d13aef67beadbf41e1caa61e84f56a19b5b9e184ddc6d23ca9dac2dbc31cca2b5a20e219e0d224001a99b4be490e2bbb2e4c5ff7d91eaaf4a91aff289ae1aed2a84560328677594b683ca28b78583703f48c411f</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">这里需要密码呢！</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+    <!-- 添加确认按钮 -->
+    <button id="hbeConfirmBtn" class="hbe hbe-confirm-btn">Confirm</button>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>实践分享</category>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>广域网</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>静态网页部署</title>
+    <url>/2025/HTML.html</url>
+    <content><![CDATA[<h1 id="一、初识HTML"><a href="#一、初识HTML" class="headerlink" title="一、初识HTML"></a>一、初识HTML</h1><h2 id="1-简单介绍"><a href="#1-简单介绍" class="headerlink" title="1.简单介绍"></a>1.简单介绍</h2><p><a href="http://baike.baidu.com/l/fzOdn2Ow?bk_share=copy&fr=copy#">HTML（超文本标记语言）</a>根据我的理解，就是用特定的语言规则描述一个页面，包括图形，色彩，文字等。</p>
+<p>它是网页前端的主要构成，浏览器就是根据HTML文件的描述，将网页内容一一渲染出来。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>一般只包含HTML前端内容的网页被称为静态网页，即没有数据库存储，也没有后台计算服务的网页。</p>
+</blockquote>
+<blockquote>
+<p>补充一点，电子邮件也是采用HTML格式进行发送和渲染。</p>
+</blockquote>
+<h2 id="2-HTML简单示例"><a href="#2-HTML简单示例" class="headerlink" title="2.HTML简单示例"></a>2.HTML简单示例</h2><p>HTML通过标签区分不同的内容，以下列举一些简单的标签及其使用。（本人也是新手，就用AI代写了）</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="keyword">html</span>&gt;</span>       <span class="comment">&lt;!-- 说明文件类型 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">&quot;zh-CN&quot;</span>&gt;</span>   <span class="comment">&lt;!-- 总标签附上语言 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span>                <span class="comment">&lt;!-- head标签，说明一些基本内容，网页标题字符编码 --&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&quot;UTF-8&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>HTML基础标签大全<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span>                       <span class="comment">&lt;!-- 网页主体部分 --&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">&lt;!-- 标题 --&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h1</span>&gt;</span>HTML基础标签演示<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h2</span>&gt;</span>1. 标题标签<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h1</span>&gt;</span>一级标题<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h2</span>&gt;</span>二级标题<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h3</span>&gt;</span>三级标题<span class="tag">&lt;/<span class="name">h3</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h4</span>&gt;</span>四级标题<span class="tag">&lt;/<span class="name">h4</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h5</span>&gt;</span>五级标题<span class="tag">&lt;/<span class="name">h5</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h6</span>&gt;</span>六级标题<span class="tag">&lt;/<span class="name">h6</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">hr</span>&gt;</span>     <span class="comment">&lt;!-- 分割线 --&gt;</span>   </span><br><span class="line"></span><br><span class="line">    <span class="comment">&lt;!-- 段落和文本 --&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h2</span>&gt;</span>2. 段落和文本格式<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>这是一个普通段落。<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>这是另一个段落，包含</span><br><span class="line"><span class="tag">&lt;<span class="name">b</span>&gt;</span>加粗文本<span class="tag">&lt;/<span class="name">b</span>&gt;</span>、</span><br><span class="line"><span class="tag">&lt;<span class="name">strong</span>&gt;</span>重要文本<span class="tag">&lt;/<span class="name">strong</span>&gt;</span>、<span class="tag">&lt;<span class="name">i</span>&gt;</span>斜体文本<span class="tag">&lt;/<span class="name">i</span>&gt;</span></span><br><span class="line">和<span class="tag">&lt;<span class="name">em</span>&gt;</span>强调文本<span class="tag">&lt;/<span class="name">em</span>&gt;</span>。<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>换行<span class="tag">&lt;<span class="name">br</span>&gt;</span>在这里</span><br><span class="line"><span class="tag">&lt;<span class="name">br</span>&gt;</span>使用了换行标签。<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="tag">&lt;<span class="name">hr</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">&lt;!-- 积木盒子 --&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">&#x27;background-color : rgba(25,25,25,0.6);&#x27;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>你好,这是一个灰色的盒子<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">div</span>&gt;</span>    </span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">hr</span>&gt;</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">&lt;!-- 链接和图片 --&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">h2</span>&gt;</span>3. 链接和图片<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>访问<span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://alarmandcxz.dpdns.org&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span>&gt;</span></span><br><span class="line">示例网站<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span><span class="tag">&lt;<span class="name">img</span> <span class="attr">src</span>=<span class="string">&quot;</span></span></span><br><span class="line"><span class="string"><span class="tag">https://i.imgs.ovh/2025/04/29/r7TrM.png&quot;</span> </span></span><br><span class="line"><span class="tag"><span class="attr">alt</span>=<span class="string">&quot;示例图片&quot;</span> <span class="attr">width</span>=<span class="string">&quot;1920&quot;</span> <span class="attr">height</span>=<span class="string">&quot;1080&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>如何预览：复制代码到记事本，默认保存为TXT文本文件，手动改文件<code>.txt</code>后缀名为<code>.html</code>。</p>
+<p>打开HTML文件（默认打开应用为浏览器），即可在浏览器中预览。</p>
+<blockquote>
+<p>由于HTML本质就是纯文本，故可以直接改后缀名，作用是让系统知道他是HTML以调用浏览器打开并渲染文件。</p>
+</blockquote>
+<p>相信你已经发现了标签通常是一对的，即<code>&lt;标签名&gt;&lt;/标签名&gt;</code>，而文本内容被包含在其中间。</p>
+<p>此外标签还可以添加一些额外的样式属性，如大小，颜色等。具体方式为在一对标签的第一个标签&lt;&gt;内标签名后空一格添加<code>style=&quot;&quot;</code>,<code>class=&quot;&quot;</code>等。</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">style</span>=<span class="string">&quot;font-size: 16px;&quot;</span>&gt;</span>这是16像素大小的文字<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">style</span>=<span class="string">&quot;font-size: 6px;&quot;</span>&gt;</span>这是6像素大小的文字<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="3-HTML-CSS和JavaScrip"><a href="#3-HTML-CSS和JavaScrip" class="headerlink" title="3.HTML,CSS和JavaScrip"></a>3.HTML,CSS和JavaScrip</h2><blockquote>
+<p>到这里就差不多超出我的知识范围了，这里有很多具体复杂的东西。大家可以查找其他资料深入学习。</p>
+</blockquote>
+<p>简单说</p>
+<ul>
+<li>HTML是主体</li>
+<li>CSS是赋予标签的样式（排列，大小，色彩，形状等）</li>
+<li>JavaScrip则是动态交互</li>
+</ul>
+<h1 id="二、部署HTML至网络"><a href="#二、部署HTML至网络" class="headerlink" title="二、部署HTML至网络"></a>二、部署HTML至网络</h1><p>有很多免费的静态网页托管服务,例如：</p>
+<ol>
+<li><a href="https://docs.github.com/zh/pages/quickstart">Github pages</a></li>
+<li><a href="https://www.cloudflare-cn.com/developer-platform/products/pages/">CloudFlare</a>的workers and pages</li>
+<li><a href="https://gzg.sealos.run/">Sealos云容器</a>的对象存储</li>
+</ol>
+]]></content>
+      <categories>
+        <category>实践分享</category>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>HTML</tag>
+        <tag>网页部署</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小知识总结（不确定） (ૢ˃ꌂ˂⁎)</title>
+    <url>/2025/xiaobai.html</url>
+    <content><![CDATA[<ul>
+<li>本文旨在总结一些日常中可能用到的小知识<span id="more"></span>
+
+我觉得B站上最近的一个系列视频做的还不错分享一下：</li>
+</ul>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-tag-bilibili-card/components/bilibili-card/bilibili-card.css">
+<div class="video-holder"><a class="default-flex full-width" target="_blank" rel="noopener noreferrer" href="https://www.bilibili.com/video/BV1mwjnz8Eas" style="max-height: 92px; display: flex; align-items: center;">
+        <div class="disable-event cover-box" style="float: left;"><i class="iconfont default-cover">
+                <svg viewBox="0 0 1093 1023" style="width: 42px; height: 42px;">
+                    <path d="M653 665C651 667 647.667 671.333 643 678C638.333 685.333 634.667 690.667 632 694C626.667 698.667 621.667 701 617 701C608.333 701 599.667 698.833 591 694.5C582.333 690.167 575 684.333 569 677L561 667C557 661.667 554 658.167 552 656.5C550 654.833 547.667 654 545 654C542.333 654 534.667 661.667 522 677C517.333 683 509.667 688.5 499 693.5C488.333 698.5 480.167 701 474.5 701C468.833 701 462.333 697 455 689C451 683.667 445.333 675.667 438 665C427.333 649 415.333 645.333 402 654C395.333 658.667 392 665.833 392 675.5C392 685.167 395.333 693.667 402 701L438 737C442 740.333 447.167 743.167 453.5 745.5C459.833 747.833 466.667 749 474 749C481.333 749 487.333 748.167 492 746.5C496.667 744.833 502.667 741.667 510 737C518 730.333 529.667 722.333 545 713C550.333 719 556.667 725 564 731C579.333 743 593.167 749 605.5 749C617.833 749 631 745 645 737C655.667 731 666 723 676 713C684 705 689 696.667 691 688C693 679.333 692 671.667 688 665C683.333 660.333 677.5 658 670.5 658C663.5 658 657.667 660.333 653 665ZM984 737C984 758.333 978.667 778 968 796C957.333 814 942.833 828.5 924.5 839.5C906.167 850.5 886 856 864 856H226C204.667 856 185 850.667 167 840C149 829.333 134.5 814.833 123.5 796.5C112.5 778.167 107 758.333 107 737V382C107 360.667 112.333 340.833 123 322.5C133.667 304.167 148.167 289.667 166.5 279C184.833 268.333 204.667 263 226 263H867C889 263 909 268.333 927 279C945 289.667 959.333 304 970 322C980.667 340 986 360 986 382V737H984ZM900 156H714L807 63C814.333 55.6667 818 47.3333 818 38C818 28.6667 814.5 20.3333 807.5 13C800.5 5.66667 792.167 2 782.5 2C772.833 2 764.333 5.66667 757 13L614 156H491L345 11C338.333 3.66667 330.167 0 320.5 0C310.833 0 302.5 3.5 295.5 10.5C288.5 17.5 285 25.8333 285 35.5C285 45.1667 288.333 53.6667 295 61L391 156H191C156.333 156 124.333 164.5 95 181.5C65.6667 198.5 42.5 221.667 25.5 251C8.5 280.333 0 312 0 346V773C0 807 8.5 838.667 25.5 868C42.5 897.333 65.6667 920.5 95 937.5C124.333 954.5 156.333 963 191 963H214C214 979.667 219.833 993.833 231.5 1005.5C243.167 1017.17 257.333 1023 274 1023C290.667 1023 304.667 1017.17 316 1005.5C327.333 993.833 333 979.667 333 963H760C760 979.667 765.667 993.833 777 1005.5C788.333 1017.17 802.333 1023 819 1023C835.667 1023 849.833 1017.17 861.5 1005.5C873.167 993.833 879 979.667 879 963H903C937 963 968.667 954.5 998 937.5C1027.33 920.5 1050.5 897.333 1067.5 868C1084.5 838.667 1093 807 1093 773V346C1092.33 312 1083.17 280.333 1065.5 251C1047.83 221.667 1024.5 198.5 995.5 181.5C966.5 164.5 934.667 156 900 156ZM653 499L879 546L891 451L676 403L653 499ZM414 406L200 453L212 549L438 501L414 406Z"></path>
+                </svg>
+            </i>
+            <div class="cover-img video-cover-img" style="background-image: url(&quot;https://images.weserv.nl/?url=http://i2.hdslb.com/bfs/archive/4ba4c41845294f109051446ec450042fbd4f6559.jpg&quot;);"></div>
+            <div class="video-subtitle">
+                <div class="video-duration">07:15</div>
+            </div>
+        </div>
+        <div class="disable-event video-content-container">
+            <p class="double-ellipsis video-title" style="margin-bottom: 0px;">年轻人不会电脑有错吗？【大学生Windows基础丨前言】</p>
+            <div class="video-card-info" style="display: flex;">
+                <div class="cover-info-item views" style="display: flex;"><i class="iconfont">
+                        <svg viewBox="0 0 896 768" style="width: 16px; height: 16px;">
+                            <path d="M832 160V608C832 635.333 822.833 658.167 804.5 676.5C786.167 694.833 763.333 704 736 704H160C132.667 704 109.833 694.833 91.5 676.5C73.1667 658.167 64 635.333 64 608V160C64 132.667 73.1667 109.833 91.5 91.5C109.833 73.1667 132.667 64 160 64H736C763.333 64 786.167 73.1667 804.5 91.5C822.833 109.833 832 132.667 832 160ZM736 768C765.333 768 792.167 760.833 816.5 746.5C840.833 732.167 860.167 712.833 874.5 688.5C888.833 664.167 896 637.333 896 608V160C896 130.667 888.833 103.833 874.5 79.5C860.167 55.1667 840.833 35.8333 816.5 21.5C792.167 7.16667 765.333 0 736 0H160C130.667 0 103.833 7.16667 79.5 21.5C55.1667 35.8333 35.8333 55.1667 21.5 79.5C7.16667 103.833 0 130.667 0 160V608C0 637.333 7.16667 664.167 21.5 688.5C35.8333 712.833 55.1667 732.167 79.5 746.5C103.833 760.833 130.667 768 160 768H736ZM621 413C629 409.667 634.5 404 637.5 396C640.5 388 640.5 380 637.5 372C634.5 364 629 358.333 621 355L365 243C353.667 238.333 343.333 239.167 334 245.5C324.667 251.833 320 260.667 320 272V496C320 507.333 324.667 516.167 334 522.5C343.333 528.833 353.667 529.667 365 525L621 413Z"></path>
+                        </svg>
+                    </i>
+                    <span class="single-ellipsis num-info">4.5万</span>
+                </div>
+                <div class="cover-info-item danmakus" style="display: flex;"><i class="iconfont">
+                        <svg viewBox="0 0 896 768" style="width: 16px; height: 16px;">
+                            <path d="M736 0C765.333 0 792.167 7.16667 816.5 21.5C840.833 35.8333 860.167 55.1667 874.5 79.5C888.833 103.833 896 130.667 896 160V608C896 637.333 888.833 664.167 874.5 688.5C860.167 712.833 840.833 732.167 816.5 746.5C792.167 760.833 765.333 768 736 768H160C130.667 768 103.833 760.833 79.5 746.5C55.1667 732.167 35.8333 712.833 21.5 688.5C7.16667 664.167 0 637.333 0 608V160C0 130.667 7.16667 103.833 21.5 79.5C35.8333 55.1667 55.1667 35.8333 79.5 21.5C103.833 7.16667 130.667 0 160 0H736ZM736 64H160C134.667 64 113 72.1667 95 88.5C77 104.833 66.6667 125.667 64 151V160V608C64 633.333 72.1667 655 88.5 673C104.833 691 125.667 701.333 151 704H160H736C761.333 704 783 695.833 801 679.5C819 663.167 829.333 642.333 832 617V608V160C832 132.667 822.833 109.833 804.5 91.5C786.167 73.1667 763.333 64 736 64ZM304 448V512H240V448H304ZM720 448V512H368V448H720ZM240 256V320H176V256H240ZM688 256V320H304V256H688Z"></path>
+                        </svg>
+                    </i>
+                    <span class="single-ellipsis num-info">159</span>
+                </div>
+            </div>
+            <div class="video-card-bottom" style="display: flex;"><label class="card-text-label">视频</label>
+                <div class="view-flex default-flex align-center author-info" style="display: flex;"><i class="iconfont up-icon">
+                        <svg viewBox="0 0 896 768" style="width: 14px; height: 14px;">
+                            <path d="M832 608V160C832 132.667 822.833 109.833 804.5 91.5C786.167 73.1667 763.333 64 736 64H160C132.667 64 109.833 73.1667 91.5 91.5C73.1667 109.833 64 132.667 64 160V608C64 635.333 73.1667 658.167 91.5 676.5C109.833 694.833 132.667 704 160 704H736C763.333 704 786.167 694.833 804.5 676.5C822.833 658.167 832 635.333 832 608ZM736 0C765.333 0 792.167 7.16667 816.5 21.5C840.833 35.8333 860.167 55.1667 874.5 79.5C888.833 103.833 896 130.667 896 160V608C896 637.333 888.833 664.167 874.5 688.5C860.167 712.833 840.833 732.167 816.5 746.5C792.167 760.833 765.333 768 736 768H160C130.667 768 103.833 760.833 79.5 746.5C55.1667 732.167 35.8333 712.833 21.5 688.5C7.16667 664.167 0 637.333 0 608V160C0 130.667 7.16667 103.833 21.5 79.5C35.8333 55.1667 55.1667 35.8333 79.5 21.5C103.833 7.16667 130.667 0 160 0H736ZM355 416V198H416V438C416 485.333 403 521.167 377 545.5C351 569.833 315 582 269 582C223 582 188 570.333 164 547C140 523.667 128 488.667 128 442V198H189V416C189 438 190.333 455 193 467C196.333 485 203.667 498.667 215 508C228.333 519.333 247.333 525 272 525C296.667 525 315.667 519.333 329 508C340.333 498.667 347.667 485 351 467C353.667 455 355 438 355 416ZM643 378C659.667 378 673.333 373.333 684 364C697.333 353.333 704 337.667 704 317C704 295 698 278.667 686 268C676 260 661.667 256 643 256H550V378H643ZM646 198C692 198 725.333 211.667 746 239C760.667 259 768 284.167 768 314.5C768 344.833 760.667 369.667 746 389C725.333 415.667 692 429 646 429H550V576H490V198H646Z"></path>
+                        </svg>
+                    </i><span class="view-flex single-ellipsis author-name">文西碎碎念</span></div>
+            </div>
+        </div>
+    </a></div>
+
+<h1 id="一、开始"><a href="#一、开始" class="headerlink" title="一、开始"></a>一、开始</h1><p>相信你在了解这些知识后，就能深入理解博客的文章甚至指出其中的错误了。</p>
+<p>所以，欢迎阅读本博客其他文章！也欢迎在文章下留言评论！</p>
+<h1 id="二、补充知识"><a href="#二、补充知识" class="headerlink" title="二、补充知识"></a>二、补充知识</h1><h2 id="1-网络知识"><a href="#1-网络知识" class="headerlink" title="1. 网络知识"></a>1. 网络知识</h2><p><a href="./network">参考文章链接</a></p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>小白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>为什么要写博客</title>
+    <url>/2025/blogstart.html</url>
+    <content><![CDATA[<blockquote>
+<p>可以算是机缘巧合吧</p>
+</blockquote>
+<p>故事要从Clawcloud run免费计划推出的那几天开始讲起。</p>
+<p>由于我平时也在B站关注了一些科技区up，然后也是在玄离199的动态里发现了Clawcloud run这一新鲜东西。</p>
+<span id="more"></span>
+
+<blockquote>
+<p><a href="https://run.claw.cloud/">Clawcloud run</a>属于阿里云的一个海外服务，是一个可以部署docker项目的云容器，使用<strong>注册时间超过180天的Github账户</strong>登陆可以获得每月5美元的免费额度。</p>
+</blockquote>
+<p>在搜索相关视频后，发现了很多可以部署的东西，包括<a href="https://cn.wordpress.org/">worldpress</a>等（也是我第一次了解worldpress）。虽然觉得很有意思，但由于免费额度有限，最后放弃了这个博客部署方案。</p>
+<p>不过我又去尝试搜索其他免费容器，在零度解说的视频中了解到<a href="https://vercel.com/">vercel</a>以及博主采用的一个示例Hexo静态博客，我也跟着步骤正式开始了尝试。</p>
+<p>不过，根据他的教程在vercel上部署并不方便，于是我又找到了github + cloudflare部署的方案，参考<a href="./hexo">教程如何部署Hexo博客</a></p>
+<p>最后也是发现用hexo的GitHub部署插件部署在GitHub上貌似更好一点，后来再次改进部署方法。</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>云容器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【Hexo】Next主题更新</title>
+    <url>/2025/newnext.html</url>
+    <content><![CDATA[<h2 id="1-起因"><a href="#1-起因" class="headerlink" title="1. 起因"></a>1. 起因</h2><ul>
+<li><p>我在刚开始部署<a href="https://hexo.io/zh-cn/">hexo</a>博客时，是用Next7的版本，这个版本采用的Font Awesome是旧版本，有一些图标无法正常显示，于是我便有了更新<a href="https://theme-next.iissnan.com/">next主题</a>的想法。</p>
+</li>
+<li><p>而且在刚开始部署时，很多个性化设置也是看一个教程就学一个，有点乱了节奏，什么修改主题文件也有，分离自定义配置的也有，故而也借此机会在新版本中更为系统的进行个性化修改。</p>
+</li>
+</ul>
+<span id="more"></span>
+
+<h2 id="2-过程"><a href="#2-过程" class="headerlink" title="2. 过程"></a>2. 过程</h2><ol>
+<li>将主题文件备份，根目录配置文件备份，删除主题文件，以及根目录配置文件。</li>
+<li>拉取最新版Next8主题</li>
+<li>复原个性化修改</li>
+</ol>
+<p>第三步是最重要也最复杂的了，遇到问题有：</p>
+<ul>
+<li><code>/source/_data/style.styl</code>文件中有些内容由于类名更新而失效，原教程就是旧版本，新版本只能自己检索，目前仍在研究中。</li>
+<li>评论系统Valine失效，需要升级为<a href="https://waline.js.org/">Waline</a>。</li>
+<li>为了分离个性化，将个性化images移动至<code>/source/image</code>。</li>
+<li>新增评论通知功能。</li>
+<li>busuanzi统计功能本地测试失效，还以为是新版本不支持了。</li>
+<li>主题配置文件格式更新了，需要逐一转移原有配置。</li>
+</ul>
+<p>最后也是成功的赶上了原有的美化进度<br><img src="https://image.alarmandcxz.dpdns.org/file/AgACAgUAAyEGAASZwsIlAAMOaKp2FliZlI1U7HWD0zbypiML0FwAAqHJMRuR2FlVk_QR_hWjF2ABAAMCAAN3AAM2BA.png" alt="大功告成"></p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>小白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【Hexo】重新部署</title>
+    <url>/2025/Ala.html</url>
+    <content><![CDATA[<h3 id="第二次重新部署"><a href="#第二次重新部署" class="headerlink" title="第二次重新部署"></a>第二次重新部署</h3><span id="more"></span>
+<ul>
+<li>git 与 hexo 编辑同时使用，导致更新冲突</li>
+</ul>
+<h3 id="第三次重新部署"><a href="#第三次重新部署" class="headerlink" title="第三次重新部署"></a>第三次重新部署</h3><ul>
+<li>子模块的使用相当晕，git clone 下来的 next 主题推送到 GitHub 上是直接引用原仓库，本地的修改推不上去，最后还是采用简单粗暴的方式，删掉所有 .git 重建仓库。</li>
+</ul>
+<h3 id="问题总结"><a href="#问题总结" class="headerlink" title="问题总结"></a>问题总结</h3><ul>
+<li>不熟悉 git 的使用</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>小白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>正式开始</title>
+    <url>/2025/alarmzxc.html</url>
+    <content><![CDATA[<h1 id="一个博客的开始"><a href="#一个博客的开始" class="headerlink" title="一个博客的开始"></a>一个博客的开始</h1><span id="more"></span>
+
+<p>作为一个喜欢折腾的业余爱好者，我也是终于成功部署了自己的博客。</p>
+<p><strong>谨以此贴纪念我的博客记录正式开始！</strong></p>
+<ul>
+<li>作为一个业余爱好者，专业的代码什么的基本不会</li>
+<li>实操能力却是有一点，依葫芦画瓢，可能是知其然不知其所以然</li>
+<li>记录的内容可能是日记类或学习的总结</li>
+<li>总而言之，就是想留下点东西（在博客部署成功后这种想法才有的😎）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>简介</tag>
+        <tag>小白简介</tag>
+      </tags>
+  </entry>
+</search>
