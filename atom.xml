@@ -10,7 +10,21 @@
   <rights>All rights reserved 2026, Alarm zxc 惊蛰</rights>
   <subtitle>一个简易火柴盒</subtitle>
   <title>Alarm's Blog</title>
-  <updated>2025-09-11T08:41:39.497Z</updated>
+  <updated>2026-11-11T16:11:08.681Z</updated>
+  <entry>
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
+    <id>https://blog.alarm-zxc.cc/2026/agent.html</id>
+    <link href="https://blog.alarm-zxc.cc/2026/agent.html"/>
+    <published>2026-11-11T16:10:54.591Z</published>
+    <summary>
+      <![CDATA[<p>Agent，一个让 AI 不再只是回答问题、更能修改文件与操控设备的高效工具。</p>
+<p>第一次使用，是 Claude Code CLI 配合 ccswitch 接入 DeepSeek，完成了个人首页 home.alarm-zxc.cc]]>
+    </summary>
+    <title>Agent初体验</title>
+    <updated>2026-11-11T16:11:08.681Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Alarm zxc 惊蛰</name>

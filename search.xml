@@ -61,6 +61,19 @@
       </tags>
   </entry>
   <entry>
+    <title>Agent初体验</title>
+    <url>/2026/agent.html</url>
+    <content><![CDATA[<p>Agent，一个让 AI 不再只是回答问题、更能修改文件与操控设备的高效工具。</p>
+<p>第一次使用，是 Claude Code CLI 配合 ccswitch 接入 DeepSeek，完成了个人首页 home.alarm-zxc.cc 的制作。</p>
+<p>相较于之前 VS Code 配合 Copilot 插件，这种方式更直接、能力更强，因为可以编写自己的 Markdown 文件来制定规则、明确规范。</p>
+<p>当时还不太会用 CLI，很多功能没有发掘出来。</p>
+<p>后来爆火的 DSH（DeepSeek Harness）让我重新认识了这类工具的强大：不只是代码任务，各种软件操作、Office 文件编辑、浏览器控制都可以交给它。</p>
+<p>我还用它完成了一些报告书。</p>
+<p>后来听说 Codex 代码能力强，配合 DeepSeek 依然更好用，于是有了这次对博客网站的小修小改。</p>
+<p>顺带还完成了自动控制的作业。目前感觉比使用 DSH 舒适一些，无论是 UI 还是操作逻辑。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>【Hexo】Next主题更新</title>
     <url>/2025/newnext.html</url>
     <content><![CDATA[<h2 id="1-起因"><a href="#1-起因" class="headerlink" title="1. 起因"></a>1. 起因</h2><ul>
