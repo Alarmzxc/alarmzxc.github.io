@@ -1,279 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alarm&#39;s Blog</title>
-  
-  <subtitle>一个简易火柴盒</subtitle>
-  <link href="https://blog.alarm-zxc.cc/atom.xml" rel="self"/>
-  
-  <link href="https://blog.alarm-zxc.cc/"/>
-  <updated>2025-09-11T08:41:39.497Z</updated>
-  <id>https://blog.alarm-zxc.cc/</id>
-  
   <author>
     <name>Alarm zxc 惊蛰</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>https://blog.alarm-zxc.cc/</id>
+  <link href="https://blog.alarm-zxc.cc/" rel="alternate"/>
+  <link href="https://blog.alarm-zxc.cc/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Alarm zxc 惊蛰</rights>
+  <subtitle>一个简易火柴盒</subtitle>
+  <title>Alarm's Blog</title>
+  <updated>2025-09-11T08:41:39.497Z</updated>
   <entry>
-    <title>【Hexo】Next主题更新</title>
-    <link href="https://blog.alarm-zxc.cc/2025/newnext.html"/>
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
+    <category term="日记" scheme="https://blog.alarm-zxc.cc/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="小白" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD/"/>
     <id>https://blog.alarm-zxc.cc/2025/newnext.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/newnext.html"/>
     <published>2025-08-24T02:20:39.497Z</published>
+    <summary>
+      <![CDATA[<h2 id="1-起因"><a href="#1-起因" class="headerlink" title="1. 起因"></a>1. 起因</h2><ul>
+<li><p>我在刚开始部署<a href="https://hexo.io/zh-cn/">hexo</a>博客时，是用Next7的版本，这个版本采用的Font Awesome是旧版本，有一些图标无法正常显示，于是我便有了更新<a href="https://theme-next.iissnan.com/">next主题</a>的想法。</p>
+</li>
+<li><p>而且在刚开始部署时，很多个性化设置也是看一个教程就学一个，有点乱了节奏，什么修改主题文件也有，分离自定义配置的也有，故而也借此机会在新版本中更为系统的进行个性化修改。</p>
+</li>
+</ul>]]>
+    </summary>
+    <title>【Hexo】Next主题更新</title>
     <updated>2025-09-11T08:41:39.497Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;1-起因&quot;&gt;&lt;a href=&quot;#1-起因&quot; class=&quot;headerlink&quot; title=&quot;1. 起因&quot;&gt;&lt;/a&gt;1. 起因&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;我在刚开始部署&lt;a href=&quot;https://hexo.io/zh-cn/&quot;&gt;hexo&lt;/a&gt;博客时，是用Next7的版本，这个版本采用的Font Awesome是旧版本，有一些图标无法正常显示，于是我便有了更新&lt;a href=&quot;https://theme-next.iissnan.com/&quot;&gt;next主题&lt;/a&gt;的想法。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;而且在刚开始部署时，很多个性化设置也是看一个教程就学一个，有点乱了节奏，什么修改主题文件也有，分离自定义配置的也有，故而也借此机会在新版本中更为系统的进行个性化修改。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="日记" scheme="https://blog.alarm-zxc.cc/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-    <category term="小白" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD/"/>
-    
   </entry>
-  
   <entry>
-    <title>广域网知识</title>
-    <link href="https://blog.alarm-zxc.cc/2025/widenetwork.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/widenetwork.html</id>
-    <published>2025-07-21T07:52:17.000Z</published>
-    <updated>2025-07-24T09:45:40.000Z</updated>
-    
-    
-    <summary type="html">这篇文章被加密了，如想获取密码，请发送邮件至hexo@alarmandcxz.dpdns.org，记得表明身份和来意。</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="实践分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/"/>
-    
     <category term="学习笔记" scheme="https://blog.alarm-zxc.cc/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
     <category term="广域网" scheme="https://blog.alarm-zxc.cc/tags/%E5%B9%BF%E5%9F%9F%E7%BD%91/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/widenetwork.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/widenetwork.html"/>
+    <published>2025-07-21T07:52:17.000Z</published>
+    <summary>这篇文章被加密了，如想获取密码，请发送邮件至hexo@alarmandcxz.dpdns.org，记得表明身份和来意。</summary>
+    <title>广域网知识</title>
+    <updated>2025-07-24T09:45:40.000Z</updated>
   </entry>
-  
   <entry>
-    <title>小知识总结（不确定） (ૢ˃ꌂ˂⁎)</title>
-    <link href="https://blog.alarm-zxc.cc/2025/xiaobai.html"/>
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
+    <category term="学习笔记" scheme="https://blog.alarm-zxc.cc/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="小白" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD/"/>
     <id>https://blog.alarm-zxc.cc/2025/xiaobai.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/xiaobai.html"/>
     <published>2025-06-21T15:03:53.094Z</published>
+    <summary>
+      <![CDATA[<ul>
+<li>本文旨在总结一些日常中可能用到的小知识</li>
+</ul>]]>
+    </summary>
+    <title>小知识总结（不确定） (ૢ˃ꌂ˂⁎)</title>
     <updated>2025-06-22T13:12:40.000Z</updated>
-    
-    
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;本文旨在总结一些日常中可能用到的小知识</summary>
-    
-    
-    
-    <category term="学习笔记" scheme="https://blog.alarm-zxc.cc/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="小白" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD/"/>
-    
   </entry>
-  
   <entry>
-    <title>静态网页部署</title>
-    <link href="https://blog.alarm-zxc.cc/2025/HTML.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/HTML.html</id>
-    <published>2025-06-15T14:52:58.451Z</published>
-    <updated>2025-06-15T14:53:05.834Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;一、初识HTML&quot;&gt;&lt;a href=&quot;#一、初识HTML&quot; class=&quot;headerlink&quot; title=&quot;一、初识HTML&quot;&gt;&lt;/a&gt;一、初识HTML&lt;/h1&gt;&lt;h2 id=&quot;1-简单介绍&quot;&gt;&lt;a href=&quot;#1-简单介绍&quot; class=&quot;headerlink&quot; title=&quot;1.简单介绍&quot;&gt;&lt;/a&gt;1.简单介绍&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://baike.baidu.com/l/fzOdn2Ow?bk_share=copy&amp;fr=copy#&quot;&gt;HTML（超文本标记语言）&lt;/a&gt;根据我的理解，就是用特定的语言规则描述一个页面，包括图形，色彩，文字等。&lt;/p&gt;
-&lt;p&gt;它是网页前端的主要构成，浏览器就是根据HTML文件的描述，将网页内容一一渲染出来。&lt;/p&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="实践分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/"/>
-    
     <category term="学习笔记" scheme="https://blog.alarm-zxc.cc/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
     <category term="HTML" scheme="https://blog.alarm-zxc.cc/tags/HTML/"/>
-    
     <category term="网页部署" scheme="https://blog.alarm-zxc.cc/tags/%E7%BD%91%E9%A1%B5%E9%83%A8%E7%BD%B2/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/HTML.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/HTML.html"/>
+    <published>2025-06-15T14:52:58.451Z</published>
+    <summary>
+      <![CDATA[<h1 id="一、初识HTML"><a href="#一、初识HTML" class="headerlink" title="一、初识HTML"></a>一、初识HTML</h1><h2 id="1-简单介绍"><a href="#1-简单介绍" class="headerlink" title="1.简单介绍"></a>1.简单介绍</h2><p><a href="http://baike.baidu.com/l/fzOdn2Ow?bk_share=copy&fr=copy#">HTML（超文本标记语言）</a>根据我的理解，就是用特定的语言规则描述一个页面，包括图形，色彩，文字等。</p>
+<p>它是网页前端的主要构成，浏览器就是根据HTML文件的描述，将网页内容一一渲染出来。</p>]]>
+    </summary>
+    <title>静态网页部署</title>
+    <updated>2025-06-15T14:53:05.834Z</updated>
   </entry>
-  
   <entry>
-    <title>为什么要写博客</title>
-    <link href="https://blog.alarm-zxc.cc/2025/blogstart.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/blogstart.html</id>
-    <published>2025-06-12T15:55:48.489Z</published>
-    <updated>2025-08-17T09:56:13.132Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;可以算是机缘巧合吧&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;故事要从Clawcloud run免费计划推出的那几天开始讲起。&lt;/p&gt;
-&lt;p&gt;由于我平时也在B站关注了一些科技区up，然后也是在玄离199的动态里发现了Clawcloud run这一新鲜东西。&lt;/p&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="日记" scheme="https://blog.alarm-zxc.cc/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
     <category term="hexo" scheme="https://blog.alarm-zxc.cc/tags/hexo/"/>
-    
     <category term="云容器" scheme="https://blog.alarm-zxc.cc/tags/%E4%BA%91%E5%AE%B9%E5%99%A8/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/blogstart.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/blogstart.html"/>
+    <published>2025-06-12T15:55:48.489Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>可以算是机缘巧合吧</p>
+</blockquote>
+<p>故事要从Clawcloud run免费计划推出的那几天开始讲起。</p>
+<p>由于我平时也在B站关注了一些科技区up，然后也是在玄离199的动态里发现了Clawcloud run这一新鲜东西。</p>]]>
+    </summary>
+    <title>为什么要写博客</title>
+    <updated>2025-08-17T09:56:13.132Z</updated>
   </entry>
-  
   <entry>
-    <title>【Hexo】Hexo博客发布文章</title>
-    <link href="https://blog.alarm-zxc.cc/2025/3213.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/3213.html</id>
-    <published>2025-05-31T08:30:47.418Z</published>
-    <updated>2025-09-11T14:48:43.278Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;我们已经成功部署了Hexo博客，那么如何编写发布文章呢?&lt;/strong&gt;&lt;br&gt;这里介绍两种方式&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;1-Hexo官方命令&quot;&gt;&lt;a href=&quot;#1-Hexo官方命令&quot; class=&quot;headerlink&quot; title=&quot;1.Hexo官方命令&quot;&gt;&lt;/a&gt;1.Hexo官方命令&lt;/h3&gt;&lt;p&gt;即博客中默认的一篇&lt;a href=&quot;./hellow&quot;&gt;文章&lt;/a&gt;，此外&lt;a href=&quot;&quot;&gt;Hexo官方文档&lt;/a&gt;中有更详细的介绍。&lt;br&gt;在项目根目录下&lt;code&gt;source&lt;/code&gt;文件夹中，&lt;code&gt;_posts&lt;/code&gt;存储已发布文章，&lt;code&gt;_drafts&lt;/code&gt;存储草稿，均为markdown格式(可添加插件使用其他格式)。顺便一提，&lt;code&gt;public&lt;/code&gt;为博客内容输出目录。&lt;/p&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="实践分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/"/>
-    
-    
     <category term="hexo" scheme="https://blog.alarm-zxc.cc/tags/hexo/"/>
-    
     <category term="NexT主题" scheme="https://blog.alarm-zxc.cc/tags/NexT%E4%B8%BB%E9%A2%98/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/3213.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/3213.html"/>
+    <published>2025-05-31T08:30:47.418Z</published>
+    <summary>
+      <![CDATA[<p><strong>我们已经成功部署了Hexo博客，那么如何编写发布文章呢?</strong><br>这里介绍两种方式</p>
+<hr>
+<h3 id="1-Hexo官方命令"><a href="#1-Hexo官方命令" class="headerlink" title="1.Hexo官方命令"></a>1.Hexo官方命令</h3><p>即博客中默认的一篇<a href="./hellow">文章</a>，此外<a href="">Hexo官方文档</a>中有更详细的介绍。<br>在项目根目录下<code>source</code>文件夹中，<code>_posts</code>存储已发布文章，<code>_drafts</code>存储草稿，均为markdown格式(可添加插件使用其他格式)。顺便一提，<code>public</code>为博客内容输出目录。</p>]]>
+    </summary>
+    <title>【Hexo】Hexo博客发布文章</title>
+    <updated>2025-09-11T14:48:43.278Z</updated>
   </entry>
-  
   <entry>
-    <title>Gemini使用指南</title>
-    <link href="https://blog.alarm-zxc.cc/2025/gemini.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/gemini.html</id>
-    <published>2025-05-24T13:45:14.335Z</published>
-    <updated>2025-05-25T13:17:52.793Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;Gemini使用指南&quot;&gt;&lt;a href=&quot;#Gemini使用指南&quot; class=&quot;headerlink&quot; title=&quot;Gemini使用指南&quot;&gt;&lt;/a&gt;Gemini使用指南&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;在观看爬爬虾的视频后发现Gemini有很多进阶的使用方法，结合自己的经历分享一下&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="实践分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/"/>
-    
     <category term="工具分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/"/>
-    
-    
     <category term="AI" scheme="https://blog.alarm-zxc.cc/tags/AI/"/>
-    
     <category term="Gemini" scheme="https://blog.alarm-zxc.cc/tags/Gemini/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/gemini.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/gemini.html"/>
+    <published>2025-05-24T13:45:14.335Z</published>
+    <summary>
+      <![CDATA[<h1 id="Gemini使用指南"><a href="#Gemini使用指南" class="headerlink" title="Gemini使用指南"></a>Gemini使用指南</h1><p><strong>在观看爬爬虾的视频后发现Gemini有很多进阶的使用方法，结合自己的经历分享一下</strong></p>]]>
+    </summary>
+    <title>Gemini使用指南</title>
+    <updated>2025-05-25T13:17:52.793Z</updated>
   </entry>
-  
   <entry>
-    <title>AI收藏夹</title>
-    <link href="https://blog.alarm-zxc.cc/2025/98494.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/98494.html</id>
-    <published>2025-05-22T14:00:04.642Z</published>
-    <updated>2025-08-24T03:10:02.385Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;本文收藏了一些常见实用的AI工具，并对其作简单描述以供了解使用&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="收藏夹" scheme="https://blog.alarm-zxc.cc/categories/%E6%94%B6%E8%97%8F%E5%A4%B9/"/>
-    
-    
     <category term="AI" scheme="https://blog.alarm-zxc.cc/tags/AI/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/98494.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/98494.html"/>
+    <published>2025-05-22T14:00:04.642Z</published>
+    <summary>
+      <![CDATA[<p><strong>本文收藏了一些常见实用的AI工具，并对其作简单描述以供了解使用</strong></p>]]>
+    </summary>
+    <title>AI收藏夹</title>
+    <updated>2025-08-24T03:10:02.385Z</updated>
   </entry>
-  
   <entry>
-    <title>【Hexo】部署静态博客hexo网站</title>
-    <link href="https://blog.alarm-zxc.cc/2025/hexo.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/hexo.html</id>
-    <published>2025-05-21T08:44:34.185Z</published>
-    <updated>2025-08-17T09:22:29.481Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;引言：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;建立一个博客网站有很多方法，而我了解到了一个静态博客框架hexo，部署方式简单，甚至无需服务器。&lt;/li&gt;
-&lt;li&gt;我选择的部署方式为&lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt;+&lt;a href=&quot;https://www.cloudflare-cn.com/&quot;&gt;Cloudflare&lt;/a&gt;，由于我是个新手小白，没有服务器什么的，所以采用这个简单经济的方案。还有，本地为windows系统。&lt;/li&gt;
-&lt;/ol&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="实践分享" scheme="https://blog.alarm-zxc.cc/categories/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/"/>
-    
-    
     <category term="hexo" scheme="https://blog.alarm-zxc.cc/tags/hexo/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/hexo.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/hexo.html"/>
+    <published>2025-05-21T08:44:34.185Z</published>
+    <summary>
+      <![CDATA[<p><strong>引言：</strong></p>
+<ol>
+<li>建立一个博客网站有很多方法，而我了解到了一个静态博客框架hexo，部署方式简单，甚至无需服务器。</li>
+<li>我选择的部署方式为<a href="https://github.com/">github</a>+<a href="https://www.cloudflare-cn.com/">Cloudflare</a>，由于我是个新手小白，没有服务器什么的，所以采用这个简单经济的方案。还有，本地为windows系统。</li>
+</ol>]]>
+    </summary>
+    <title>【Hexo】部署静态博客hexo网站</title>
+    <updated>2025-08-17T09:22:29.481Z</updated>
   </entry>
-  
   <entry>
-    <title>【Hexo】重新部署</title>
-    <link href="https://blog.alarm-zxc.cc/2025/Ala.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/Ala.html</id>
-    <published>2025-05-19T11:40:39.497Z</published>
-    <updated>2025-05-19T11:40:36.119Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;第二次重新部署&quot;&gt;&lt;a href=&quot;#第二次重新部署&quot; class=&quot;headerlink&quot; title=&quot;第二次重新部署&quot;&gt;&lt;/a&gt;第二次重新部署&lt;/h3&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="日记" scheme="https://blog.alarm-zxc.cc/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
     <category term="小白" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/Ala.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/Ala.html"/>
+    <published>2025-05-19T11:40:39.497Z</published>
+    <summary>
+      <![CDATA[<h3 id="第二次重新部署"><a href="#第二次重新部署" class="headerlink" title="第二次重新部署"></a>第二次重新部署</h3>]]>
+    </summary>
+    <title>【Hexo】重新部署</title>
+    <updated>2025-05-19T11:40:36.119Z</updated>
   </entry>
-  
   <entry>
-    <title>正式开始</title>
-    <link href="https://blog.alarm-zxc.cc/2025/alarmzxc.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/alarmzxc.html</id>
-    <published>2025-05-12T15:40:52.313Z</published>
-    <updated>2025-05-13T16:06:53.305Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;一个博客的开始&quot;&gt;&lt;a href=&quot;#一个博客的开始&quot; class=&quot;headerlink&quot; title=&quot;一个博客的开始&quot;&gt;&lt;/a&gt;一个博客的开始&lt;/h1&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="日记" scheme="https://blog.alarm-zxc.cc/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
     <category term="简介" scheme="https://blog.alarm-zxc.cc/tags/%E7%AE%80%E4%BB%8B/"/>
-    
     <category term="小白简介" scheme="https://blog.alarm-zxc.cc/tags/%E5%B0%8F%E7%99%BD%E7%AE%80%E4%BB%8B/"/>
-    
+    <id>https://blog.alarm-zxc.cc/2025/alarmzxc.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/alarmzxc.html"/>
+    <published>2025-05-12T15:40:52.313Z</published>
+    <summary>
+      <![CDATA[<h1 id="一个博客的开始"><a href="#一个博客的开始" class="headerlink" title="一个博客的开始"></a>一个博客的开始</h1>]]>
+    </summary>
+    <title>正式开始</title>
+    <updated>2025-05-13T16:06:53.305Z</updated>
   </entry>
-  
   <entry>
-    <title>【Hexo】Hello World</title>
-    <link href="https://blog.alarm-zxc.cc/2025/hellow.html"/>
-    <id>https://blog.alarm-zxc.cc/2025/hellow.html</id>
-    <published>2025-05-12T11:56:47.970Z</published>
-    <updated>2025-05-12T11:56:47.970Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;</summary>
-    
-    
-    
+    <author>
+      <name>Alarm zxc 惊蛰</name>
+    </author>
     <category term="转载" scheme="https://blog.alarm-zxc.cc/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
+    <id>https://blog.alarm-zxc.cc/2025/hellow.html</id>
+    <link href="https://blog.alarm-zxc.cc/2025/hellow.html"/>
+    <published>2025-05-12T11:56:47.970Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]>
+    </summary>
+    <title>【Hexo】Hello World</title>
+    <updated>2025-05-12T11:56:47.970Z</updated>
   </entry>
-  
 </feed>
